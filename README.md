@@ -8,7 +8,7 @@ the end of list.
 I built this solution based in his solution and i solved that isues.
 
 
-![](assets/rocketfy.PNG)
+![](assets/rocketfy.png)
 
 ## Instalation 
 
