@@ -2,7 +2,7 @@
 > This is a Pipefy clone 
 
 In this project Diego Fernandes built a Pipefy clone, but his solution luck some 
-funcionalities. In his solution, is not possible to add task in empty list or add task in 
+functionalities. In his solution, is not possible to add task in empty list or add task in 
 the end of list.
 
 I built this solution based in his solution and i solved that isues.
@@ -10,15 +10,15 @@ I built this solution based in his solution and i solved that isues.
 
 ![](assets/rocketfy.png)
 
-## Instalation 
+## Installation 
 
-For instalation of all dependecies, go to cmd and run a code below
+For installation of all dependencies, go to cmd and run a code below
 
 ```sh
 yarn install
 ```
 
-After all dependecies installed
+After all dependencies installed
 
 **To run**
 
